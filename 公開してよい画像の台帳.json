@@ -1,0 +1,19 @@
+{
+ "_readme": "人の顔が0件と確認できた画像だけを公開しています。",
+ "images": [
+  {
+   "file": "images/2026-10-05_nuigurumi.png",
+   "sha256": "69594483a7aacfea3e626c9b2473e6c14ddaffaa17e786c35b96bc10764413b5",
+   "subject": "うちの犬（フレンチブルドッグ2匹）の写真をもとにAIで作った画像",
+   "human_faces": 0,
+   "checked_at": "2026-09-29"
+  },
+  {
+   "file": "images/2026-10-08_sticker.png",
+   "sha256": "c319b693198fdf0affbbe41ac90135d21fcae7c6ed68a049e779b97cfce10441",
+   "subject": "うちの犬（フレンチブルドッグ2匹）の写真をもとにAIで作った画像",
+   "human_faces": 0,
+   "checked_at": "2026-09-29"
+  }
+ ]
+}
